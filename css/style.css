@@ -1,0 +1,28 @@
+
+.nav li {
+
+    list-style: none;
+}
+.nav li a {
+
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    font-weight: 700;
+    
+}
+.nav {
+
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    display: flex;
+    border-left: 15px solid;
+    padding-left: 20px;
+    border-color: #797979;
+    border-width: 15px;
+
+}
